@@ -1,5 +1,10 @@
 # VKprop_v2
-Version 2 of my Voight-Kampff themed TTRPG prop. I've improved the overall build and added an automated camera stalk and bellows.
+Version 2 of my Voight-Kampff themed TTRPG prop.
+The original project is here: https://github.com/TechDocN/VKprop
+
+I'm improving the overall build and adding an automated camera stalk and bellows.
+
+---
 
 What is it made from?
 - 1 Arduino Nano
@@ -24,9 +29,13 @@ How is everything wired together?
 - Nano to buzzer
 - Xiao x2 to OLED x2
 
+---
+
 NOTE:
 The BMP image rendering routine was adapted from the spitftbitmap.ino example by Adafruit Industries, part of the Adafruit ST7735 library.
 Used under the MIT License.
+
+---
 
 LICENSES:
 The software and content of this project is licensed under the Creative Commons Attribution Share Alike 4.0 International, and the hardware and hardware design elements are licensed under the CERN Open Hardware Licence Version 2 - Strongly Reciprocal.
